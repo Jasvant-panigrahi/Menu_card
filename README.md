@@ -1,2 +1,2 @@
 # Menu_card
-https://menu-card-123.netlify.app/
+https://www-celestercuisine-com.netlify.app/
